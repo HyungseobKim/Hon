@@ -1,20 +1,24 @@
 # Hon
 
 Project
+
 Academic game project by 4 sophomore students team.
 Developed with custom c++ engine.
   
   
 Introduction
+
 HON is 2D action platformer game. Player will fight with moving things during exploring mansion.
 The story is about ghost wants to be human again. Player needs to find 3 flowers to reborn.
 
 
 Installation
+
 You can simply install Hon with downloading and running hon_setup.exe. It will automatically install entire game. After installation, run HON.exe. Initial location of file is C:\Program Files\Digipen\hon.
   
 
 Sources
+
 You can view entire source in hon_source folder.
 These are files that I mainly coded.
 
