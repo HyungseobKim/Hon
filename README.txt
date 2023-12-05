@@ -8,18 +8,18 @@ Project
   
 Introduction
 
-    HON is 2D action platformer game. Player will fight with moving things during exploring mansion.
-    The story is about ghost wants to be human again. Player needs to find 3 flowers to reborn.
+    HON is 2D action platformer game. Players will fight against moving things during exploring a mansion.
+    The story is about a ghost wants to be a human again. Players need to find 3 flowers to reborn.
 
 
 Installation
 
-    You can simply install Hon with downloading and running hon_setup.exe. It will automatically install entire game. After installation, run HON.exe. Initial location of file is C:\Program Files\Digipen\hon.
+    You can simply install Hon with downloading and running hon_setup.exe. It will automatically install tje entire game. After the installation, run HON.exe. The default location of the file is C:\Program Files\Digipen\hon.
   
 
 Sources
 
-    You can view entire source in hon_source folder.
+    You can view the entire source in hon_source folder.
     These are files that I mainly coded.
 
     AI
@@ -31,4 +31,4 @@ Sources
   
    System - C_AI, S_AI, C_Audio, S_Audio, C_GameObject, S_GameObject, Font, Text, Mathematics, FontManager, StateManager
 
-   File name without extension includes both .h and .cpp files.
+   Files without an extension has both .h and .cpp files.
